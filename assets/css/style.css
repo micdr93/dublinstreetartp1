@@ -152,9 +152,12 @@ body {
     
     }
     footer {
+      font-family: Poppins;
     margin-top: 20px;
     border-top: 3px solid #ff960d; 
     padding-top: 10px;
+    color: #004080 ;
+    font-weight: bold;
     }
     img {
        max-width: 100%;
