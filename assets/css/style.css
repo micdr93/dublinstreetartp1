@@ -152,7 +152,7 @@ body {
     
     }
     footer {
-      font-family: Poppins;
+    font-family: Poppins;
     margin-top: 20px;
     border-top: 3px solid #ff960d; 
     padding-top: 10px;
@@ -182,9 +182,6 @@ body {
       padding: 0;
     }
     
-    .gallery li {
-      flex-basis: calc(100% / 3); 
-    }
     
     .gallery img {
       width: 100%;
