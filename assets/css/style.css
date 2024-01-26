@@ -168,3 +168,20 @@ body {
     h2 {
       border-bottom:#ff960d;
     }
+
+    .gallery {
+      display: flex;
+      justify-content: space-between; 
+      align-items: center; 
+      list-style: none;
+      padding: 0;
+    }
+    
+    .gallery li {
+      flex-basis: calc(100% / 3); 
+    }
+    
+    .gallery img {
+      width: 100%;
+      height: auto;
+    }
