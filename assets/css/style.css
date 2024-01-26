@@ -64,7 +64,7 @@ body {
   text-decoration : #004080;
   border-color : #004080;
   border-width : 3px;
-  border-bottom : 3px solid #ff960d;
+  border-bottom : 3px solid #0dbeff;
   }
   .navdiv {
   display : flex;
@@ -122,13 +122,13 @@ body {
   font-size : 50px;
   text-align : center;
   margin-top : 20px;
-  border-top : 3px solid #ff960d;
+  border-top : 3px solid #0dbeff;
   padding-top : 10px;
   }
   footer {
   font-family : Poppins;
   margin-top : 20px;
-  border-top : 3px solid #ff960d;
+  border-top : 3px solid #0dbeff;
   padding-top : 10px;
   color : #004080;
   font-weight : bold;
@@ -143,7 +143,7 @@ body {
   font-weight : bold;
   }
   h2 {
-  border-bottom : #ff960d;
+  border-bottom : #0dbeff;
   }
   .gallery {
   display : flex;
