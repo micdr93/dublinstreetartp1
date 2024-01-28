@@ -4,15 +4,18 @@ body {
   background-color : white;
   color : #004080;
   }
+  
   * {
   text-decoration : none;
   }
+
   .logo {
   font-family : "Bebas Neue", sans-serif;
   font-size : 45px;
   font-weight : bold;
   color : #004080;
   }
+
   button {
   background-color : white;
   align-items : center;
@@ -26,6 +29,7 @@ body {
   color : #004080;
   border-color : #004080;
   }
+
   input {
   background-color : white;
   align-items : center;
@@ -39,6 +43,7 @@ body {
   color : #004080;
   border-color : #004080;
   }
+
   button {
   background-color : white;
   align-items : center;
@@ -52,12 +57,14 @@ body {
   color : #004080;
   border-color : #004080;
   }
+
   ul {
   list-style : none;
   display : inline-block;
   color : #004080;
   font-weight : bolder;
   }
+
   .navbar {
   background-color : #fafeff;
   font-family : "Bebas Neue", sans-serif;
@@ -66,25 +73,30 @@ body {
   border-width : 3px;
   border-bottom : 3px solid #0dbeff;
   }
+
   .navdiv {
   display : flex;
   text-align : center;
   justify-content : space-between;
   padding-top : 10px;
   }
+
   li {
   list-style : none;
   display : inline-block;
   color : #004080;
   font-weight : bolder;
   }
+
   li a {
   color : #004080;
   margin-right : 20px;
   }
+
   .container {
   min-height: auto;
   }
+
   img {
   max-width : 100%;
   max-height : 100%;
@@ -95,6 +107,7 @@ body {
   border-radius : 30%;
   position: relative;
   }
+
   tr {
   font-family : "Bebas Neue", sans-serif;
   color : #004080;
@@ -102,6 +115,7 @@ body {
   text-align : center;
   font-weight : bold;
   }
+
   p {
   font-family : Poppins, sans-serif;
   color : #004080;
@@ -109,12 +123,14 @@ body {
   text-align : center;
   font-weight : normal;
   }
+
   h1 {
   font-family : "Bebas Neue", sans-serif;
   color : #004080;
   font-size : 100px;
   text-align : center;
   }
+
   h3 {
   font-family : Poppins, sans-serif;
   color : #004080;
@@ -124,6 +140,7 @@ body {
   border-top : 3px solid #0dbeff;
   padding-top : 10px;
   }
+
   footer {
   font-family : Poppins;
   margin-top : 20px;
@@ -132,18 +149,23 @@ body {
   color : #004080;
   font-weight : bold;
   }
+
   img {
   max-width : 100%;
   }
+
   td {
   font-weight : bold;
   }
+
   form {
   font-weight : bold;
   }
+
   h2 {
   border-bottom : #0dbeff;
   }
+
   .gallery {
   display : flex;
   justify-content : space-between;
@@ -151,15 +173,18 @@ body {
   list-style : none;
   padding : 0;
   }
+
   .gallery img {
   width : 100%;
   height : auto;
   }
+
   .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
   }
+  
 
   
