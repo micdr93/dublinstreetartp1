@@ -40,7 +40,7 @@ There are different features to the Dublin Street Art Gallery site.
 - __Contact Us__
 
 - The contact us page shows the opening times of the gallery and includes a contact us form for people to send their enquiries.
-- I used a "thank you page" to work as a comnpleted form submission.
+- I used a "thank you page" to work as a completed form submission.
 
 
 
@@ -75,13 +75,13 @@ I have had a little trouble trouble trying to get the images to center nicely on
 
 ## Credits 
 
-- I utilised https://www.w3schools.com/ and https://developer.mozilla.org/en-US/ for applying the form and table and to display images with rounded corners. 
--
+- I utilised https://www.w3schools.com/ and https://developer.mozilla.org/en-US/ for applying the form, table and to also display images with rounded corners. 
+- I had the benefit of working closely with my mentor Dan Hamilton on this project, who was a tremendous help.
 
 
 ### Content 
 
-- The text content throughout the site was authored by me, having direct knowledge on the subject. I have used multiple sources for images and YouTube videos.
+- The text content throughout the site was authored by myself, having direct knowledge on the subject. I have used multiple sources for images and YouTube videos.
 
 ### Media
 
