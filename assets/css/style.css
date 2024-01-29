@@ -221,5 +221,11 @@ li img {
 }
 
 table {
-  text-align: center;
+  font-family : Poppins, sans-serif;
+  color : #004080;
+  font-size : 50px;
+  text-align : center;
+  margin-top : 20px;
+  border-top : 3px solid #0dbeff;
+  padding-top : 10px;
 }
