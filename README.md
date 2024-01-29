@@ -76,7 +76,8 @@ I have had a little trouble trouble trying to get the images to center nicely on
 
 ## Credits 
 
-- I utilised https://www.w3schools.com/ and https://developer.mozilla.org/en-US/ for applying the form, table and to also display images with rounded corners. 
+- I utilised https://moz.com/learn/seo/ for keyword code https://www.w3schools.com/ and https://developer.mozilla.org/en-US/ for applying the form, table and to also display images with rounded corners. 
+- 
 - I had the benefit of working closely with my mentor Dan Hamilton on this project, who was a tremendous help.
 
 
