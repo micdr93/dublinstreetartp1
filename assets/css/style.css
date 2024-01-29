@@ -190,8 +190,6 @@ body {
   padding : 0;
   }
 
- 
-
   .center {
     display: block;
     margin-left: auto;
@@ -204,5 +202,5 @@ li img {
 }
 
 table {
-  align-items: center;
+  text-align: center;
 }
