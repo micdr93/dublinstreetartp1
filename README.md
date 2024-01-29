@@ -16,6 +16,7 @@ There are different features to the Dublin Street Art Gallery site.
 - The Navigation bar is responsive with links to the Logo, Home page, Gallery and a Contact Us page. Each oage follows the same style and format to allow for consistent ease of use ad navigation. 
 
   - This allows end-users to explore various sections of the site without opening a new tab.
-  
+  ![Nav Bar]
+
 
 
