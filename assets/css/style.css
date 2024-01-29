@@ -205,3 +205,7 @@ body {
 li img {
   align-items : center;
 }
+
+table {
+  align-items: center;
+}
