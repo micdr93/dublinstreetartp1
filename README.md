@@ -87,5 +87,11 @@ I have had a little trouble trouble trying to get the images to center nicely on
 
 - The photos used on the home page were taken from:
 - The images used for the gallery page were taken from:
+https://images.squarespace-cdn.com/content/v1/5eb4217e1e1add20752051bc/1591889240424-9N0YZQKRRPR1TOSTFVQX/20190428+Hendrick+0073+Aches.jpg
+https://www.conorharrington.com/wp-content/uploads/2023/05/Conor-Harrington-Homepage1.jpg
+https://focus.belfasttelegraph.co.uk/thumbor/MZsRgT0279ZZM92PFvcpAuSzJ5M=/0x28:5316x2960/960x640/prod-mh-ireland/2fc953c8-95bb-11ed-811d-0210609a3fe2
+https://cdn.echo.ie/wp-content/uploads/2023/08/04124644/Sinead-OConnor-by-Emmalenbe-Blake.jpg
+https://thesquare.ie/wp-content/uploads/2023/03/52734090669_cecedba148_k.jpg
+
 -  The images used for the featured-artists page were taken from:
 - The videos on the featured-artists page were taken from YouTube: 
