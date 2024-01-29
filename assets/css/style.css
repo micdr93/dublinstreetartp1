@@ -191,7 +191,13 @@ body {
   font-weight : bold;
   }
 
-  h2 {
+  h2 { font-family : Poppins, sans-serif;
+    color : #004080;
+    font-size : 50px;
+    text-align : center;
+    margin-top : 20px;
+    border-top : 3px solid #0dbeff;
+    padding-top : 10px;
   border-bottom : #0dbeff;
   }
 
