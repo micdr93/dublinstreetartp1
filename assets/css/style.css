@@ -188,5 +188,7 @@ body {
     width: 50%;
   }
   
-
+li img {
+  align-items : center;
+}
   
