@@ -94,5 +94,6 @@ I have had a little trouble trouble trying to get the images to center nicely on
 https://cdn.echo.ie/wp-content/uploads/2023/08/04124644/Sinead-OConnor-by-Emmalenbe-Blake.jpg
 https://thesquare.ie/wp-content/uploads/2023/03/52734090669_cecedba148_k.jpg
 
--  **The images used for the featured-artists page were taken from:**
-- **The videos on the featured-artists page were taken from YouTube:** 
+**The images used for the featured-artists page were taken from:**
+
+**The videos on the featured-artists page were taken from YouTube:** 
