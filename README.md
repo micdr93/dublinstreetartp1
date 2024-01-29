@@ -28,7 +28,7 @@ There are different features to the Dublin Street Art Gallery site.
 
 - The Featured Artists page includes some imagery and a brief description of each artist aaccompanied with a YouTube video Interview with each artist listed.
 
-![Featured-Artists] ()
+![Featured-Artists] (https://micdr93.github.io/dublinstreetartp1/assets/images/dublin_street_art_gallery_featured_artists.png)
 
 - __Gallery Page__
 
