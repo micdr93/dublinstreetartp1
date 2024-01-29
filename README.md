@@ -40,7 +40,12 @@ There are different features to the Dublin Street Art Gallery site.
 
 - The contact us page shows the opening times of the gallery and includes a contact us form for people to send their enquiries.
 
-![Contact] ()
+![Contact](https://micdr93.github.io/dublinstreetartp1/assets/images/DublinStreetArtGalleryContactUs.png)
 
+## Testing 
 
+I have used validator and used various devices (desktop, ios, android) to test the responsiveness using different browsers (chrome, safari, brave)
 
+I found that the size of the Youtube preview fits nicely on mobile however it is too small on desktop.
+
+I have had a little trouble trouble trying to get the images to center nicely on the gallery page.
