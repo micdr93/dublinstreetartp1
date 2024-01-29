@@ -40,8 +40,13 @@ There are different features to the Dublin Street Art Gallery site.
 - __Contact Us__
 
 - The contact us page shows the opening times of the gallery and includes a contact us form for people to send their enquiries.
+- I used a "thank you page" to work as a comnpleted form submission.
+
+
 
 ![Contact](https://micdr93.github.io/dublinstreetartp1/assets/images/dublin_street_art_gallery_contact_us.png)
+![Thank You](https://micdr93.github.io/dublinstreetartp1/assets/images/dublin_street_art_gallery_thank_you.png)
+
 - __The Footer__ 
 
   - The footer includes links to social media platform to encourage users to follow and stay up to date with the latest posts and news.
