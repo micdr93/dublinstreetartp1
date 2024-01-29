@@ -46,7 +46,7 @@ There are different features to the Dublin Street Art Gallery site.
 
   - The footer includes links to social media platform to encourage users to follow and stay up to date with the latest posts and news.
 
-![Footer]()
+![Footer](https://micdr93.github.io/dublinstreetartp1/assets/images/DublinStreetArtGalleryFooter.png)
 
 ## Testing 
 
