@@ -190,10 +190,7 @@ body {
   padding : 0;
   }
 
-  .gallery img {
-  max-width: 500px;
-  height : auto;
-  }
+ 
 
   .center {
     display: block;
