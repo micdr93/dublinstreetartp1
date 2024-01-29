@@ -97,7 +97,7 @@ body {
 
   .container {
   min-height: auto;
-  display: center;
+  display: flex;
   }
 
   img {
