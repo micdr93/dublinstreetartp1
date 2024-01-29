@@ -4,6 +4,7 @@ Dublin Street Art Gallery:
 Discover the vibrant colours from the artists who decorate our city with amazing pieces.
 
 We showcase some of the most well known artists from home and across the globe.
+![Responsive Mockup](https://micdr93.github.io/dublinstreetartp1/assets/images/dublin_street_art_gallery_mockup.png)
 
 ## Features: 
 
