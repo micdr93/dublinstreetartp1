@@ -58,7 +58,7 @@ I have had a little trouble trouble trying to get the images to center nicely on
 ### Validator Testing 
 
 - HTML
-  - 
+  -No errors were returned when passing through the official [W3C validator] https://validator.w3.org/nu/?doc=https%3A%2F%2Fmicdr93.github.io%2Fdublinstreetartp1%2Findex.html
 - CSS
   - 
 
