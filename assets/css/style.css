@@ -23,6 +23,14 @@ body {
   text-align: left;
   }
 
+  header {
+    font-family : "Bebas Neue", sans-serif;
+    font-size : 45px;
+    font-weight : bold;
+    color : #004080;
+    text-align: center;
+  }
+
   button {
   background-color : white;
   align-items : center;
