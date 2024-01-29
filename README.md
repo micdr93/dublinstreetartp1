@@ -52,9 +52,10 @@ There are different features to the Dublin Street Art Gallery site.
 
 I have used validator and used various devices (desktop, ios, android) to test the responsiveness using different browsers (chrome, safari, brave)
 
-I found that the size of the Youtube preview fits nicely on mobile however it is too small on desktop.
+I found that the size of the Youtube preview fits nicely on mobile however it was too small on desktop. I fixed this by removing some overlapping code that was causing this issuse.
 
-I have had a little trouble trouble trying to get the images to center nicely on the gallery page on desktop where as on mobile they center nicely.
+I have had a little trouble trouble trying to get the images to center nicely on the gallery page on desktop where as on mobile they center nicely. I managed to fix this by removing CSS that was conflicting and causing this issue.
+
 ### Validator Testing 
 
 - HTML
@@ -69,6 +70,7 @@ I have had a little trouble trouble trying to get the images to center nicely on
 ## Credits 
 
 - I utilised https://www.w3schools.com/ and https://developer.mozilla.org/en-US/ for applying the form and table and to display images with rounded corners. 
+-
 
 
 ### Content 
