@@ -23,7 +23,7 @@ There are different features to the Dublin Street Art Gallery site.
 
 - The home page features a description of what the gallery is all about and features some colourful artwork to illustrate what type of artwork the gallery will showcase.
 
-![Home] ()
+![Home] (https://micdr93.github.io/dublinstreetartp1/assets/images/dublin_street_art_gallery_home.png)
 
 - __Featured Artists Page__
 
