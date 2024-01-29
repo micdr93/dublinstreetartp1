@@ -16,7 +16,7 @@ There are different features to the Dublin Street Art Gallery site.
 - The Navigation bar is responsive with links to the Logo, Home page, Gallery and a Contact Us page. Each oage follows the same style and format to allow for consistent ease of use and navigation. 
 
   - This allows end-users to explore various sections of the site without opening a new tab.
-  ![Nav Bar](https://micdr93.github.io/dublinstreetartp1/assets/images/DublinStreetArtGalleryNavBar.png)
+  ![Nav Bar](https://micdr93.github.io/dublinstreetartp1/assets/images/dublin_street_art_gallery_navbar.png)
 
 - __The Home Page__
 
@@ -40,13 +40,12 @@ There are different features to the Dublin Street Art Gallery site.
 
 - The contact us page shows the opening times of the gallery and includes a contact us form for people to send their enquiries.
 
-![Contact](https://micdr93.github.io/dublinstreetartp1/assets/images/DublinStreetArtGalleryContactUs.png)
-
+![Contact](https://micdr93.github.io/dublinstreetartp1/assets/images/dublin_street_art_gallery_contact_us.png)
 - __The Footer__ 
 
   - The footer includes links to social media platform to encourage users to follow and stay up to date with the latest posts and news.
 
-![Footer](https://micdr93.github.io/dublinstreetartp1/assets/images/DublinStreetArtGalleryFooter.png)
+![Footer](https://micdr93.github.io/dublinstreetartp1/assets/images/dublin_street_art_gallery_footer.png)
 
 ## Testing 
 
