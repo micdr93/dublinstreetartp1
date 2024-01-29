@@ -102,6 +102,7 @@ body {
 
   .container {
   min-height: auto;
+  flex: 0 500px;
   }
 
   img {
