@@ -18,7 +18,10 @@ There are different features to the Dublin Street Art Gallery site.
   - This allows end-users to explore various sections of the site without opening a new tab.
   ![Nav Bar](https://micdr93.github.io/dublinstreetartp1/assets/images/DublinStreetArtGalleryNavBar.png)
 
-  - __The home page__
+- __The home page__
+
+- The home page features a description of what the gallery is all about and features some colourful artwork to illustrate what type of artwork the gallery will showcase.
+
 
 
 
