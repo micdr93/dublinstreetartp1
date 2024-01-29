@@ -42,6 +42,12 @@ There are different features to the Dublin Street Art Gallery site.
 
 ![Contact](https://micdr93.github.io/dublinstreetartp1/assets/images/DublinStreetArtGalleryContactUs.png)
 
+- __The Footer__ 
+
+  - The footer includes links to social media platform to encourage users to follow and stay up to date with the latest posts and news.
+
+![Footer]()
+
 ## Testing 
 
 I have used validator and used various devices (desktop, ios, android) to test the responsiveness using different browsers (chrome, safari, brave)
