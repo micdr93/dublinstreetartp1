@@ -64,13 +64,20 @@ I have had a little trouble trouble trying to get the images to center nicely on
 
 # Deployment
 
-
-
 - The site was deployed using replit at the start to run live tests of styling and deployed using gitpod and github.
-
 
 ## Credits 
 
-- The text content throughout the site was authored by me, having direct knowledge on the subject. I have used multiple sources for images and YouTube videos.
 - I utilised https://www.w3schools.com/ and https://developer.mozilla.org/en-US/ for applying the form and table and to display images with rounded corners. 
 
+
+### Content 
+
+- The text content throughout the site was authored by me, having direct knowledge on the subject. I have used multiple sources for images and YouTube videos.
+
+### Media
+
+- The photos used on the home page were taken from:
+- The images used for the gallery page were taken from:
+-  The images used for the featured-artists page were taken from:
+- The videos on the featured-artists page were taken from YouTube: 
