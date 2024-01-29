@@ -97,5 +97,11 @@ https://cdn.echo.ie/wp-content/uploads/2023/08/04124644/Sinead-OConnor-by-Emmale
 https://thesquare.ie/wp-content/uploads/2023/03/52734090669_cecedba148_k.jpg
 
 **The images used for the featured-artists page were taken from:**
+- https://images.squarespace-cdn.com/content/v1/5c4ecf2c5cfd797e18b8ba9a/1557498972099-HERP3VZYQN72KA0Q2IXU/*Aches+Iverna+7.jpg
+- https://thegloss.ie/wp-content/uploads/2023/06/maser-featured.png
+- https://img.rasset.ie/00144275-1600.jpg
 
 **The videos on the featured-artists page were taken from YouTube:** 
+- https://youtu.be/IEesGugC16s
+- https://youtu.be/Kjz_AbwWfSU
+- https://youtu.be/JQzsPdZud5c
