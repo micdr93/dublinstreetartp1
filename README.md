@@ -23,19 +23,19 @@ There are different features to the Dublin Street Art Gallery site.
 
 - The home page features a description of what the gallery is all about and features some colourful artwork to illustrate what type of artwork the gallery will showcase.
 
-![Home] (https://micdr93.github.io/dublinstreetartp1/assets/images/dublin_street_art_gallery_home.png)
+![Home](https://micdr93.github.io/dublinstreetartp1/assets/images/dublin_street_art_gallery_home.png)
 
 - __Featured Artists Page__
 
 - The Featured Artists page includes some imagery and a brief description of each artist aaccompanied with a YouTube video Interview with each artist listed.
 
-![Featured-Artists] (https://micdr93.github.io/dublinstreetartp1/assets/images/dublin_street_art_gallery_featured_artists.png)
+![Featured-Artists](https://micdr93.github.io/dublinstreetartp1/assets/images/dublin_street_art_gallery_featured_artists.png)
 
 - __Gallery Page__
 
 - The Gallery page showcases selected artworks by some of the best graffiti and street artists.
 
-![Gallery] ()
+![Gallery](https://micdr93.github.io/dublinstreetartp1/assets/images/dublin_street_art_gallery_gallery_page.png)
 
 - __Contact Us__
 
