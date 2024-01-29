@@ -55,3 +55,9 @@ I have used validator and used various devices (desktop, ios, android) to test t
 I found that the size of the Youtube preview fits nicely on mobile however it is too small on desktop.
 
 I have had a little trouble trouble trying to get the images to center nicely on the gallery page.
+### Validator Testing 
+
+- HTML
+  - 
+- CSS
+  - 
