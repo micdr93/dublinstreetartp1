@@ -73,12 +73,17 @@ I have had a little trouble trouble trying to get the images to center nicely on
 
 - CSS 
   -No errors were returned when passing through the official [W3C validator] https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmicdr93.github.io%2Fdublinstreetartp1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
-  
+
+### Unfixed Bugs
+
+I haven't learned Javascript yet so I sufficed with a thank-you page on the form submission, and also the performance on the featured artists page scores low. 
+
 ### Lighthouse Testing 
 
 ![Index](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/lighthouse-index.png)
 ![Gallery](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/lighthouse-gallery.png)
 ![Contact](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/lighthouse-contact.png)
+![Featured Artists](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/)
 
 
 # Deployment
@@ -89,7 +94,7 @@ I have had a little trouble trouble trying to get the images to center nicely on
 
 - I utilised https://moz.com/learn/seo/ for keyword code https://www.w3schools.com/ and https://developer.mozilla.org/en-US/ for applying the form, table and to also display images with rounded corners. 
 - 
-- I had the benefit of working closely with my mentor Dan Hamilton on this project, who was a tremendous help.
+- I had the benefit of working closely with my mentor Dan Hamilton on this website, who was a tremendous help.
 
 
 ### Content 
