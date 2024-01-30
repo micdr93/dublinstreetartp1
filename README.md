@@ -56,13 +56,18 @@ There are different features to the Dublin Street Art Gallery site.
 
 ![Footer](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/dublin_street_art_gallery_footer.png)
 
+## Goals:
+- The main target audience are those who have an interest in street art and are intertested in eeing what the city has to offer in terms of art.
+- I wanted the website to be clean looking and have tones of blue to allign with the colours that represent the city.
+- I wanted to include a commbination of both video and images to showcase the artwork. 
+
 ## Wireframes:
 
 - Below are wireframes of what I hoped the site to look like on smartphone and tablet:
 
-![Smartphone] (https://micdr93.github.io/dublinstreetartp1/assets/readme-images/wireframeiphone.png)
+![Smartphone](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/wireframeiphone.png)
 
-![Tablet] (https://micdr93.github.io/dublinstreetartp1/assets/readme-images/wireframeipad.png)
+![Tablet](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/wireframeipad.png)
 
 ## Testing 
 
