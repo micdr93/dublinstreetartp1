@@ -76,6 +76,10 @@ I have had a little trouble trouble trying to get the images to center nicely on
   
 ### Lighthouse Testing 
 
+![Index](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/lighthouse-index.png)
+![Gallery](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/lighthouse-gallery.png)
+![Contact](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/lighthouse-contact.png)
+
 
 # Deployment
 
