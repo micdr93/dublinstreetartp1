@@ -68,12 +68,14 @@ I have had a little trouble trouble trying to get the images to center nicely on
   - index.html https://validator.w3.org/nu/?doc=https%3A%2F%2Fmicdr93.github.io%2Fdublinstreetartp1%2Findex.html
   - gallery.html https://validator.w3.org/nu/?doc=https%3A%2F%2Fmicdr93.github.io%2Fdublinstreetartp1%2Fgallery.html
   - featured-artists.html https://validator.w3.org/nu/?doc=https%3A%2F%2Fmicdr93.github.io%2Fdublinstreetartp1%2Ffeatured-artists.html
-  - 
+  - contact.html https://validator.w3.org/nu/?doc=https%3A%2F%2Fmicdr93.github.io%2Fdublinstreetartp1%2Fcontact.html
   - thank-you.html https://validator.w3.org/nu/?doc=https%3A%2F%2Fmicdr93.github.io%2Fdublinstreetartp1%2Fthank-you.html
 
 - CSS 
   -No errors were returned when passing through the official [W3C validator] https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmicdr93.github.io%2Fdublinstreetartp1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
   
+### Lighthouse Testing 
+
 
 # Deployment
 
