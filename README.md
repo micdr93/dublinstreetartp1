@@ -61,6 +61,7 @@ There are different features to the Dublin Street Art Gallery site.
 - Below are wireframes of what I hoped the site to look like on smartphone and tablet:
 
 ![Smartphone] (https://micdr93.github.io/dublinstreetartp1/assets/readme-images/wireframeiphone.png)
+
 ![Tablet] (https://micdr93.github.io/dublinstreetartp1/assets/readme-images/wireframeipad.png)
 
 ## Testing 
