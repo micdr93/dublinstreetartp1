@@ -46,7 +46,7 @@ There are different features to the Dublin Street Art Gallery site.
 
 ![Contact](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/readme_form.png)
 
-![Opening-Times] (https://micdr93.github.io/dublinstreetartp1/assets/readme-images/readme_table.png)
+![Opening-Times](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/readme_table.png)
 
 ![Thank You](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/readme_thank_you.png)
 
