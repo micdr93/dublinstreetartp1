@@ -44,14 +44,24 @@ There are different features to the Dublin Street Art Gallery site.
 
 
 
-![Contact](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/dublin_street_art_gallery_contact_us.png)
-![Thank You](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/dublin_street_art_gallery_thank_you.png)
+![Contact](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/readme_form.png)
+
+![Opening-Times] (https://micdr93.github.io/dublinstreetartp1/assets/readme-images/readme_table.png)
+
+![Thank You](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/readme_thank_you.png)
 
 - __The Footer__ 
 
   - The footer includes links to social media platform to encourage users to follow and stay up to date with the latest posts and news.
 
 ![Footer](https://micdr93.github.io/dublinstreetartp1/assets/readme-images/dublin_street_art_gallery_footer.png)
+
+## Wireframes:
+
+- Below are wireframes of what I hoped the site to look like on smartphone and tablet:
+
+![Smartphone] (https://micdr93.github.io/dublinstreetartp1/assets/readme-images/wireframeiphone.png)
+![Tablet] (https://micdr93.github.io/dublinstreetartp1/assets/readme-images/wireframeipad.png)
 
 ## Testing 
 
